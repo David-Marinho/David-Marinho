@@ -10,5 +10,5 @@ print('Olá, mundo!')
 - 🌱 agora eu estou focando em aprender a programar no c# e no kotlin
 - as linguagens de programaçao que eu mais gosto é python e c# empatadas (o java ta em 3º 🥉)
 
-# Lugares para me seguir:
+### Lugares para me seguir:
 [Linkedin](https://www.linkedin.com/in/david-pequeno-marinho-1326b5149/)
