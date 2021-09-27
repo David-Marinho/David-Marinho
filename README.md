@@ -1,8 +1,8 @@
 ## eai! Eu sou david ✌️
 <div align="center">
   <a href="https://github.com/David-Marinho">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=david-marinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=126887"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-marinho&layout=compact&langs_count=7&theme=radical&title_color=126887"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=david-marinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=126887"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-marinho&layout=compact&langs_count=7&theme=radical&title_color=126887"/>
 </div>
   
   <div style="display: inline_block"><br>
